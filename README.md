@@ -9,25 +9,25 @@
 
 이름
 역할
-박형준
+#박형준
 - 코드 작성 : CheckReservedTicket.h, CheckReservedTicket.cpp/ Timer.h, Timer.cpp(TimeSet, 현재 시간 설정, 남은 시간 계산)
 - 테스트 : 1년 지난 티켓 자동 삭제
 - 다이어그램 : Check Reserved Ticket 시퀀스, 클래스 다이어그램, Timer 클래스 다이어그램, End Auction 시퀀스 다이어그램 작성
-정윤석
+#정윤석
 - 코드 작성 : Ticket 클래스/Auction Manager 클래스/Timer 클래스(endAuction(),  updateAuction(), deleteOneYearTickets())/MemberManager(세션 관련 기능) /SearchAuctionTicketUI, SearchAuctionTicket, ParticipateAuctionUI, ParticipateAuction
 헤더, cpp 파일)
 - 테스트 : 옥션 관련 기능(여러명의 셀러, 바이어가 있을 때 경매 참여 확인, 시간 설정시 낙찰, 유찰 확인, 시간의 흐름에 따른 티켓 검색과 조회 확인)
 - 오류 : 코드 전반적인 버그 해결
 - 다이어그램 : Ticket, AuctionManager 클래스 다이어그램 작성, SearchAuctionTicket, ParticipateAuction 시퀀스 다이어그램 작성
-조윤해
+#조윤해
 - 코드 작성 : 로그인/로그아웃/회원탈퇴 .h,.cpp
 - 다이어그램회원가입/로그인/로그아웃/회원탈퇴 클래스다이어그램, 시퀀스 다이어그램
 - 테스트 : 로그인/로그아웃/세션변경
-유지혁
+#유지혁
 - 코드 작성 : 티켓 매니저/checkEnrolledTicket .h, cpp
 - 다이어그램 : checkEnrolledTIcket 클래스 및 시퀀스 다이어그램 
 - 테스트 :　withdraw 테스트, 수정 
-이지현
+#이지현
 - 코드 작성 : Seller, Buyer, SignUp, SignUpUI, RegisterTicket, RegisterTicketUI, SearchTicket, SearchTicketUI 헤더, cpp 파일 작성
 - 테스트 : 파일 입출력 예제 테스트, 등록한 티켓 여러 개일 때 조회 잘 되는지 확인, 그 외 오류 수정
 - 다이어그램 : register ticket, search ticket, reserve ticket 시퀀스 다이어그램, 클래스 다이어그램 작성, buyer, seller 클래스 다이어그램 작성, 오류 수정
