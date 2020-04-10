@@ -156,7 +156,7 @@ System Response
 1. None
 2. 예매한 티켓목록을 경기날짜 및 시각이 빠른 순서로 정렬해서 구매가격, 경기날짜, 시각, 홈팀, 어웨이팀, 좌석위치를 출력한다.
 
-## class diagram
+## 4. class diagram
 ![class통합](https://user-images.githubusercontent.com/54641007/78766192-eb362800-79c3-11ea-8f80-1bb49954ae2f.jpg)
 
 
